@@ -5,6 +5,7 @@ lista = random.sample(range(1, 100000), 10000)
 
 print("Lista criada")
 
+#busca sequencial
 def busca_sequencial(lista, alvo):
     i = 0
     while i < len(lista):
@@ -13,6 +14,7 @@ def busca_sequencial(lista, alvo):
         i += 1
     return -1
 
+#busca binaria
 def busca_binaria(lista, alvo):
     inicio = 0
     fim = len(lista) - 1
