@@ -1,3 +1,5 @@
+# Arthur Ribeiro, Gabriel Rodrigues, João Leal, José Flávio, Arthur dos Santos.
+
 # ─────────────────────────────────────────────
 #  PRODUTO
 # ─────────────────────────────────────────────
